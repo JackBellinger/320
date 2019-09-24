@@ -1,0 +1,69 @@
+template <class T>
+vector<T> Graph<T>::Dfs(int start, int select)
+{
+	vector<T> topoSort;
+	map<int, vector<int>>::iterator sIt = verticies.find(start);
+	if(sIt != verticies.end())
+	{
+		cout << "#" << numElements << endl;
+		color = vector<color_t>(numElements + 1, WHITE);//verticies.size(), WHITE);
+		distance = vector<int>(numElements + 1, -1);//verticies.size(), -1);
+		parent = vector<int>(numElements + 1, -1);//verticies.size(), -1);
+		stack<int> neighbors = stack<int>();
+		numCycles = 0;
+
+		color[start] = GRAY;
+
+		distance[start] = 0;
+		neighbors.push(start);
+		cout << "colors# " << color.size() << endl;
+		while(!neighbors.empty() && numCycles < 1)
+		{
+			int u = neighbors.top();
+			neighbors.pop();
+			cout << "deq " << u << " dist " << distance[u] << endl;
+
+			for(int v : verticies[u])
+			{
+				cout << "v: " << v << endl;
+				if(color[v] == WHITE)
+				{
+					color[v] = GRAY;
+					distance[v] = distance[u] + 1;
+					parent[v] = u;
+					neighbors.push(v);
+				}
+				else if(color[v] == GRAY)
+				{//there's a cycle
+					cout << " There's a cycle" << endl;
+					numCycles++;
+				}
+			}
+			color[u] = BLACK;
+			topoSort.push_back(u);
+		}
+
+		for(int i = 0; i < distance.size(); i++)
+		{
+			if(distance[i] != -1)
+				cout <<  "Distance to " << i << " is " << distance[i] << endl;
+		}
+	}else
+		cout << "start isn't in the graph" << endl;
+	return topoSort;
+}
+
+	template <class T>
+vector<T> Graph<T>::topoSort()
+{
+	vector<T> output;
+	map<int, vector<int>>::iterator it = verticies.begin();
+	if(isDAG())//if cycles isn't computed it will still try dfs
+	{
+		output = Dfs(it->first, 0);
+	}else //it's not directed or has a cycle
+	{
+		cout << "The graph is not a DAG." << endl;
+	}
+	return output;
+}
