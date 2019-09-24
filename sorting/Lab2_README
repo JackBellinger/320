@@ -1,0 +1,25 @@
+SU COSC 320 - Lab 2: QuickSort + MergeSort Runtime analysis
+Jackson Bellinger 9/18/2018
+
+In this lab we implemented QuickSort and MergeSort, and counted the time of execution and number of operations (swaps for quicksort and comparisons for mergesort). 
+While I was running the sorts at large elements, quicksort seg faulted from a stack overflow while sorting a descending ordered array. I realized that this is the worst cast scenario for QS.
+I tried to make quicksort randomly pick the pivot location to stop it from having the worst-cast runtime when the array is backwards sorted, but I was getting other errors. 
+I would like to update my code later to fix these issues I had with the backwards sorted arrays.
+
+a)
+            Best        Worst
+quicksort   O(nlogn)    O(n^2)
+mergesort   O(nlogn)    O(nlogn)
+
+b) From the output we can see that the actual runtime is about right for all the starting conditions / sorting algos, except for the case of a descending ordered array. In this case they take around T(n^2)
+
+
+c) The best case for quicksort seems to be when the arrays elements are in a (psuedo)random order. The worst case is when the input array is sorted in descending order.
+    For mergesort the best and worst case O()s are the same, so in the output it show's that the number of swaps and time to run are roughly = for all initial conditions of the input array.
+
+d) yes, the worst case for quicksort is really terrible. If it wasn't recursive, n^2 wouldn't be so bad, but since the function recurses for each subarray/partition, the stack gets filled with the n^2 function calls. This made my computer not be able to run quicksort with more than 10,000 elements (couldn't get through 100,000).
+
+e) In the worst case, quicksort is essentially a recursive bubblesort. Because the pivot will always be the first element in the subarray, as I currently have it, the pivot will have to swap through the whole subarray to get everything less than it on the left. This means that for every element, it has to bubble all the way to the other end, making it O(n^2) like bubblesort.
+
+f) my code could be made better by correctly implementing a way of choosing pivot positions other than the first element. This wouldn't eliminate the worst case scenario from happening at all, but it would stop it from happening when the array is sorted in descending order, and make the worst case much less likely.
+    I would also have liked to add templating, which I am going to add to all of the sorting algorithms for the next lab. It also would have been good to make the array work with negative and other kinds of data in the arrays.

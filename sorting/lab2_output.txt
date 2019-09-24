@@ -1,0 +1,103 @@
+Output 1:
+
+Output 2:
+
+Array with 10 elements is in Random order and will be sorted by Merge Sort
+finished at Tue Sep 18 11:00:14 2018
+elapsed time: 4.4769e-05 s
+Number of swaps: 11
+Array is Sorted Correctly
+
+
+Array with 100 elements is in Descending order and will be sorted by Quick Sort
+finished at Tue Sep 18 11:00:14 2018
+elapsed time: 0.00266066 s
+Number of swaps: 2500
+Array is Sorted Correctly
+
+
+Array with 100 elements is in Descending order and will be sorted by Merge Sort
+finished at Tue Sep 18 11:00:14 2018
+elapsed time: 0.000428816 s
+Number of swaps: 101
+Array is Sorted Correctly
+
+
+Array with 100 elements is in Random order and will be sorted by Quick Sort
+finished at Tue Sep 18 11:00:14 2018
+elapsed time: 0.00102258 s
+Number of swaps: 273
+Array is Sorted Correctly
+
+
+Array with 100 elements is in Random order and will be sorted by Merge Sort
+finished at Tue Sep 18 11:00:14 2018
+elapsed time: 0.000695405 s
+Number of swaps: 101
+Array is Sorted Correctly
+
+
+Array with 1000 elements is in Descending order and will be sorted by Quick Sort
+finished at Tue Sep 18 11:00:14 2018
+elapsed time: 0.386812 s
+Number of swaps: 250000
+Array is Sorted Correctly
+
+
+Array with 1000 elements is in Descending order and will be sorted by Merge Sort
+finished at Tue Sep 18 11:00:14 2018
+elapsed time: 0.00666049 s
+Number of swaps: 1001
+Array is Sorted Correctly
+
+
+Array with 1000 elements is in Random order and will be sorted by Quick Sort
+finished at Tue Sep 18 11:00:14 2018
+elapsed time: 0.0229416 s
+Number of swaps: 5267
+Array is Sorted Correctly
+
+
+Array with 1000 elements is in Random order and will be sorted by Merge Sort
+finished at Tue Sep 18 11:00:14 2018
+elapsed time: 0.0194879 s
+Number of swaps: 1001
+Array is Sorted Correctly
+
+
+Array with 10000 elements is in Descending order and will be sorted by Quick Sort
+finished at Tue Sep 18 11:00:43 2018
+elapsed time: 28.8401 s
+Number of swaps: 25000000
+Array is Sorted Correctly
+
+
+Array with 10000 elements is in Descending order and will be sorted by Merge Sort
+finished at Tue Sep 18 11:00:43 2018
+elapsed time: 0.158665 s
+Number of swaps: 10001
+Array is Sorted Correctly
+
+
+Array with 10000 elements is in Random order and will be sorted by Quick Sort
+finished at Tue Sep 18 11:00:44 2018
+elapsed time: 0.273844 s
+Number of swaps: 78628
+Array is Sorted Correctly
+
+
+Array with 10000 elements is in Random order and will be sorted by Merge Sort
+finished at Tue Sep 18 11:00:44 2018
+elapsed time: 0.225932 s
+Number of swaps: 10001
+Array is Sorted Correctly
+
+
+Array with 100000 elements is in Descending order and will be sorted by Quick Sort
+==5477== Stack overflow in thread #1: can't grow stack to 0x1ffe801000
+==5477== 
+==5477== Process terminating with default action of signal 11 (SIGSEGV)
+==5477==  Access not within mapped region at address 0x1FFE801FF0
+==5477== Stack overflow in thread #1: can't grow stack to 0x1ffe801000
+==5477==    at 0x4C3085E: operator new[](unsigned long) (in /usr/lib/valgrind/vgpreload_memcheck-amd64-linux.so)
+

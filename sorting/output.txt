@@ -1,0 +1,1229 @@
+Output 1: All sorters and all generators
+
+Array with 10 elements is in Ascending Order and will be sorted by Bubble Sort
+finished at Mon Sep 10 22:33:28 2018
+elapsed time: 1.8e-07 s
+Number of swaps: 0
+Array is Sorted Correctly
+
+Array with 10 elements is in Ascending Order and will be sorted by Insertion Sort
+finished at Mon Sep 10 22:33:28 2018
+elapsed time: 4.19e-07 s
+Number of swaps: 0
+Array is Sorted Correctly
+
+Array with 10 elements is in Ascending Order and will be sorted by Selection Sort
+finished at Mon Sep 10 22:33:28 2018
+elapsed time: 4.14e-07 s
+Number of swaps: 0
+Array is Sorted Correctly
+
+Array with 10 elements is in Descending order and will be sorted by Bubble Sort
+finished at Mon Sep 10 22:33:28 2018
+elapsed time: 1.059e-06 s
+Number of swaps: 45
+Array is Sorted Correctly
+
+Array with 10 elements is in Descending order and will be sorted by Insertion Sort
+finished at Mon Sep 10 22:33:28 2018
+elapsed time: 7.24e-07 s
+Number of swaps: 45
+Array is Sorted Correctly
+
+Array with 10 elements is in Descending order and will be sorted by Selection Sort
+finished at Mon Sep 10 22:33:28 2018
+elapsed time: 5.7e-07 s
+Number of swaps: 5
+Array is Sorted Correctly
+
+Array with 10 elements is in Random order and will be sorted by Bubble Sort
+finished at Mon Sep 10 22:33:28 2018
+elapsed time: 9.87e-07 s
+Number of swaps: 29
+Array is Sorted Correctly
+
+Array with 10 elements is in Random order and will be sorted by Insertion Sort
+finished at Mon Sep 10 22:33:28 2018
+elapsed time: 6.22e-07 s
+Number of swaps: 21
+Array is Sorted Correctly
+
+Array with 10 elements is in Random order and will be sorted by Selection Sort
+finished at Mon Sep 10 22:33:28 2018
+elapsed time: 6.25e-07 s
+Number of swaps: 7
+Array is Sorted Correctly
+
+Array with 100 elements is in Ascending Order and will be sorted by Bubble Sort
+finished at Mon Sep 10 22:33:28 2018
+elapsed time: 3.73e-07 s
+Number of swaps: 0
+Array is Sorted Correctly
+
+Array with 100 elements is in Ascending Order and will be sorted by Insertion Sort
+finished at Mon Sep 10 22:33:28 2018
+elapsed time: 1.3127e-05 s
+Number of swaps: 0
+Array is Sorted Correctly
+
+Array with 100 elements is in Ascending Order and will be sorted by Selection Sort
+finished at Mon Sep 10 22:33:28 2018
+elapsed time: 1.3909e-05 s
+Number of swaps: 0
+Array is Sorted Correctly
+
+Array with 100 elements is in Descending order and will be sorted by Bubble Sort
+finished at Mon Sep 10 22:33:28 2018
+elapsed time: 5.9186e-05 s
+Number of swaps: 4950
+Array is Sorted Correctly
+
+Array with 100 elements is in Descending order and will be sorted by Insertion Sort
+finished at Mon Sep 10 22:33:28 2018
+elapsed time: 4.227e-05 s
+Number of swaps: 4950
+Array is Sorted Correctly
+
+Array with 100 elements is in Descending order and will be sorted by Selection Sort
+finished at Mon Sep 10 22:33:28 2018
+elapsed time: 1.5031e-05 s
+Number of swaps: 50
+Array is Sorted Correctly
+
+Array with 100 elements is in Random order and will be sorted by Bubble Sort
+finished at Mon Sep 10 22:33:28 2018
+elapsed time: 0.000258585 s
+Number of swaps: 2497
+Array is Sorted Correctly
+
+Array with 100 elements is in Random order and will be sorted by Insertion Sort
+finished at Mon Sep 10 22:33:28 2018
+elapsed time: 2.7937e-05 s
+Number of swaps: 2280
+Array is Sorted Correctly
+
+Array with 100 elements is in Random order and will be sorted by Selection Sort
+finished at Mon Sep 10 22:33:28 2018
+elapsed time: 1.8395e-05 s
+Number of swaps: 95
+Array is Sorted Correctly
+
+Array with 1000 elements is in Ascending Order and will be sorted by Bubble Sort
+finished at Mon Sep 10 22:33:28 2018
+elapsed time: 2.6e-06 s
+Number of swaps: 0
+Array is Sorted Correctly
+
+Array with 1000 elements is in Ascending Order and will be sorted by Insertion Sort
+finished at Mon Sep 10 22:33:28 2018
+elapsed time: 0.00224332 s
+Number of swaps: 0
+Array is Sorted Correctly
+
+Array with 1000 elements is in Ascending Order and will be sorted by Selection Sort
+finished at Mon Sep 10 22:33:28 2018
+elapsed time: 0.0015802 s
+Number of swaps: 0
+Array is Sorted Correctly
+
+Array with 1000 elements is in Descending order and will be sorted by Bubble Sort
+finished at Mon Sep 10 22:33:28 2018
+elapsed time: 0.0130886 s
+Number of swaps: 499500
+Array is Sorted Correctly
+
+Array with 1000 elements is in Descending order and will be sorted by Insertion Sort
+finished at Mon Sep 10 22:33:28 2018
+elapsed time: 0.00782879 s
+Number of swaps: 499500
+Array is Sorted Correctly
+
+Array with 1000 elements is in Descending order and will be sorted by Selection Sort
+finished at Mon Sep 10 22:33:28 2018
+elapsed time: 0.00777518 s
+Number of swaps: 500
+Array is Sorted Correctly
+
+Array with 1000 elements is in Random order and will be sorted by Bubble Sort
+finished at Mon Sep 10 22:33:28 2018
+elapsed time: 0.00860575 s
+Number of swaps: 253095
+Array is Sorted Correctly
+
+Array with 1000 elements is in Random order and will be sorted by Insertion Sort
+finished at Mon Sep 10 22:33:28 2018
+elapsed time: 0.00324539 s
+Number of swaps: 246982
+Array is Sorted Correctly
+
+Array with 1000 elements is in Random order and will be sorted by Selection Sort
+finished at Mon Sep 10 22:33:28 2018
+elapsed time: 0.00159144 s
+Number of swaps: 990
+Array is Sorted Correctly
+
+Array with 10000 elements is in Ascending Order and will be sorted by Bubble Sort
+finished at Mon Sep 10 22:33:28 2018
+elapsed time: 2.3732e-05 s
+Number of swaps: 0
+Array is Sorted Correctly
+
+Array with 10000 elements is in Ascending Order and will be sorted by Insertion Sort
+finished at Mon Sep 10 22:33:28 2018
+elapsed time: 0.215871 s
+Number of swaps: 0
+Array is Sorted Correctly
+
+Array with 10000 elements is in Ascending Order and will be sorted by Selection Sort
+finished at Mon Sep 10 22:33:28 2018
+elapsed time: 0.255507 s
+Number of swaps: 0
+Array is Sorted Correctly
+
+Array with 10000 elements is in Descending order and will be sorted by Bubble Sort
+finished at Mon Sep 10 22:33:29 2018
+elapsed time: 0.911336 s
+Number of swaps: 49995000
+Array is Sorted Correctly
+
+Array with 10000 elements is in Descending order and will be sorted by Insertion Sort
+finished at Mon Sep 10 22:33:30 2018
+elapsed time: 0.669275 s
+Number of swaps: 49995000
+Array is Sorted Correctly
+
+Array with 10000 elements is in Descending order and will be sorted by Selection Sort
+finished at Mon Sep 10 22:33:30 2018
+elapsed time: 0.318785 s
+Number of swaps: 5000
+Array is Sorted Correctly
+
+Array with 10000 elements is in Random order and will be sorted by Bubble Sort
+finished at Mon Sep 10 22:33:31 2018
+elapsed time: 0.756473 s
+Number of swaps: 25111302
+Array is Sorted Correctly
+
+Array with 10000 elements is in Random order and will be sorted by Insertion Sort
+finished at Mon Sep 10 22:33:32 2018
+elapsed time: 0.525572 s
+Number of swaps: 24919223
+Array is Sorted Correctly
+
+Array with 10000 elements is in Random order and will be sorted by Selection Sort
+finished at Mon Sep 10 22:33:32 2018
+elapsed time: 0.255721 s
+Number of swaps: 9990
+Array is Sorted Correctly
+
+Array with 100000 elements is in Ascending Order and will be sorted by Bubble Sort
+finished at Mon Sep 10 22:33:32 2018
+elapsed time: 0.000268788 s
+Number of swaps: 0
+Array is Sorted Correctly
+
+Array with 100000 elements is in Ascending Order and will be sorted by Insertion Sort
+finished at Mon Sep 10 22:33:48 2018
+elapsed time: 15.7297 s
+Number of swaps: 0
+Array is Sorted Correctly
+
+Array with 100000 elements is in Ascending Order and will be sorted by Selection Sort
+finished at Mon Sep 10 22:34:05 2018
+elapsed time: 16.9542 s
+Number of swaps: 0
+Array is Sorted Correctly
+
+Array with 100000 elements is in Descending order and will be sorted by Bubble Sort
+finished at Mon Sep 10 22:35:43 2018
+elapsed time: 98.1268 s
+Number of swaps: 704982704
+Array is Sorted Correctly
+
+Array with 100000 elements is in Descending order and will be sorted by Insertion Sort
+finished at Mon Sep 10 22:36:41 2018
+elapsed time: 58.3706 s
+Number of swaps: 704982704
+Array is Sorted Correctly
+
+Array with 100000 elements is in Descending order and will be sorted by Selection Sort
+finished at Mon Sep 10 22:36:58 2018
+elapsed time: 16.5231 s
+Number of swaps: 50000
+Array is Sorted Correctly
+
+Array with 100000 elements is in Random order and will be sorted by Bubble Sort
+finished at Mon Sep 10 22:38:12 2018
+elapsed time: 74.2695 s
+Number of swaps: 18446744071915994653
+Array is Sorted Correctly
+
+Array with 100000 elements is in Random order and will be sorted by Insertion Sort
+finished at Mon Sep 10 22:38:48 2018
+elapsed time: 36.0861 s
+Number of swaps: 18446744071912057337
+Array is Sorted Correctly
+
+Array with 100000 elements is in Random order and will be sorted by Selection Sort
+finished at Mon Sep 10 22:39:05 2018
+elapsed time: 16.7284 s
+Number of swaps: 99990
+Array is Sorted Correctly
+
+Array with 1000000 elements is in Ascending Order and will be sorted by Bubble Sort
+finished at Mon Sep 10 22:39:05 2018
+elapsed time: 0.00327129 s
+Number of swaps: 0
+Array is Sorted Correctly
+
+Array with 1000000 elements is in Ascending Order and will be sorted by Insertion Sort
+finished at Mon Sep 10 23:07:10 2018
+elapsed time: 1685.68 s
+Number of swaps: 0
+Array is Sorted Correctly
+
+Array with 1000000 elements is in Ascending Order and will be sorted by Selection Sort
+ finished at Mon Sep 10 23:36:08 2018
+elapsed time: 1738.07 s
+Number of swaps: 0
+Array is Sorted Correctly
+
+Array with 1000000 elements is in Descending order and will be sorted by Bubble Sort
+finished at Tue Sep 11 03:24:23 2018
+elapsed time: 13694.3 s
+Number of swaps: 1783293664
+Array is Sorted Correctly
+
+Array with 1000000 elements is in Descending order and will be sorted by Insertion Sort
+finished at Tue Sep 11 05:14:53 2018
+elapsed time: 6629.86 s
+Number of swaps: 1783293664
+Array is Sorted Correctly
+
+Array with 1000000 elements is in Descending order and will be sorted by Selection Sort
+finished at Tue Sep 11 05:46:07 2018
+elapsed time: 1874.49 s
+Number of swaps: 500000
+Array is Sorted Correctly
+
+Array with 1000000 elements is in Random order and will be sorted by Bubble Sort
+finished at Tue Sep 11 08:09:53 2018
+elapsed time: 8625.3 s
+Number of swaps: 960289804
+Array is Sorted Correctly
+
+Array with 1000000 elements is in Random order and will be sorted by Insertion Sort
+finished at Tue Sep 11 09:18:33 2018
+elapsed time: 4119.9 s
+Number of swaps: 1097165560
+Array is Sorted Correctly
+
+Array with 1000000 elements is in Random order and will be sorted by Selection Sort
+finished at Tue Sep 11 09:50:17 2018
+elapsed time: 1904.35 s
+Number of swaps: 999986
+Array is Sorted Correctly
+
+
+Output 2: Random arrays only
+
+Array with 10 elements is in Random order and will be sorted by Bubble Sort
+finished at Tue Sep 11 00:03:54 2018
+elapsed time: 1.265e-06 s
+Number of swaps: 29
+Array is Sorted Correctly
+
+Array with 10 elements is in Random order and will be sorted by Insertion Sort
+finished at Tue Sep 11 00:03:54 2018
+elapsed time: 6.75e-07 s
+Number of swaps: 21
+Array is Sorted Correctly
+
+Array with 10 elements is in Random order and will be sorted by Selection Sort
+finished at Tue Sep 11 00:03:54 2018
+elapsed time: 7.63e-07 s
+Number of swaps: 7
+Array is Sorted Correctly
+
+Array with 10 elements is in Random order and will be sorted by Bubble Sort
+finished at Tue Sep 11 00:03:54 2018
+elapsed time: 9.38e-07 s
+Number of swaps: 23
+Array is Sorted Correctly
+
+Array with 10 elements is in Random order and will be sorted by Insertion Sort
+finished at Tue Sep 11 00:03:54 2018
+elapsed time: 6.19e-07 s
+Number of swaps: 19
+Array is Sorted Correctly
+
+Array with 10 elements is in Random order and will be sorted by Selection Sort
+finished at Tue Sep 11 00:03:54 2018
+elapsed time: 6.39e-07 s
+Number of swaps: 7
+Array is Sorted Correctly
+
+Array with 10 elements is in Random order and will be sorted by Bubble Sort
+finished at Tue Sep 11 00:03:54 2018
+elapsed time: 6.53e-07 s
+Number of swaps: 25
+Array is Sorted Correctly
+
+Array with 10 elements is in Random order and will be sorted by Insertion Sort
+finished at Tue Sep 11 00:03:54 2018
+elapsed time: 6.09e-07 s
+Number of swaps: 23
+Array is Sorted Correctly
+
+Array with 10 elements is in Random order and will be sorted by Selection Sort
+finished at Tue Sep 11 00:03:54 2018
+elapsed time: 7.11e-07 s
+Number of swaps: 7
+Array is Sorted Correctly
+
+Array with 10 elements is in Random order and will be sorted by Bubble Sort
+finished at Tue Sep 11 00:03:54 2018
+elapsed time: 7.86e-07 s
+Number of swaps: 23
+Array is Sorted Correctly
+
+Array with 10 elements is in Random order and will be sorted by Insertion Sort
+finished at Tue Sep 11 00:03:54 2018
+elapsed time: 6.17e-07 s
+Number of swaps: 27
+Array is Sorted Correctly
+
+Array with 10 elements is in Random order and will be sorted by Selection Sort
+finished at Tue Sep 11 00:03:54 2018
+elapsed time: 6.15e-07 s
+Number of swaps: 6
+Array is Sorted Correctly
+
+Array with 10 elements is in Random order and will be sorted by Bubble Sort
+finished at Tue Sep 11 00:03:54 2018
+elapsed time: 8.46e-07 s
+Number of swaps: 19
+Array is Sorted Correctly
+
+Array with 10 elements is in Random order and will be sorted by Insertion Sort
+finished at Tue Sep 11 00:03:54 2018
+elapsed time: 5.68e-07 s
+Number of swaps: 20
+Array is Sorted Correctly
+
+Array with 10 elements is in Random order and will be sorted by Selection Sort
+finished at Tue Sep 11 00:03:54 2018
+elapsed time: 5.81e-07 s
+Number of swaps: 7
+Array is Sorted Correctly
+
+Array with 10 elements is in Random order and will be sorted by Bubble Sort
+finished at Tue Sep 11 00:03:54 2018
+elapsed time: 7.69e-07 s
+Number of swaps: 23
+Array is Sorted Correctly
+
+Array with 10 elements is in Random order and will be sorted by Insertion Sort
+finished at Tue Sep 11 00:03:54 2018
+elapsed time: 6.46e-07 s
+Number of swaps: 23
+Array is Sorted Correctly
+
+Array with 10 elements is in Random order and will be sorted by Selection Sort
+finished at Tue Sep 11 00:03:54 2018
+elapsed time: 6.34e-07 s
+Number of swaps: 7
+Array is Sorted Correctly
+
+Array with 10 elements is in Random order and will be sorted by Bubble Sort
+finished at Tue Sep 11 00:03:54 2018
+elapsed time: 7.89e-07 s
+Number of swaps: 17
+Array is Sorted Correctly
+
+Array with 10 elements is in Random order and will be sorted by Insertion Sort
+finished at Tue Sep 11 00:03:54 2018
+elapsed time: 5.71e-07 s
+Number of swaps: 16
+Array is Sorted Correctly
+
+Array with 10 elements is in Random order and will be sorted by Selection Sort
+finished at Tue Sep 11 00:03:54 2018
+elapsed time: 7.31e-07 s
+Number of swaps: 8
+Array is Sorted Correctly
+
+Array with 10 elements is in Random order and will be sorted by Bubble Sort
+finished at Tue Sep 11 00:03:54 2018
+elapsed time: 1.013e-06 s
+Number of swaps: 27
+Array is Sorted Correctly
+
+Array with 10 elements is in Random order and will be sorted by Insertion Sort
+finished at Tue Sep 11 00:03:54 2018
+elapsed time: 5.83e-07 s
+Number of swaps: 22
+Array is Sorted Correctly
+
+Array with 10 elements is in Random order and will be sorted by Selection Sort
+finished at Tue Sep 11 00:03:54 2018
+elapsed time: 5.9e-07 s
+Number of swaps: 6
+Array is Sorted Correctly
+
+Array with 10 elements is in Random order and will be sorted by Bubble Sort
+finished at Tue Sep 11 00:03:54 2018
+elapsed time: 8.21e-07 s
+Number of swaps: 26
+Array is Sorted Correctly
+
+Array with 10 elements is in Random order and will be sorted by Insertion Sort
+finished at Tue Sep 11 00:03:54 2018
+elapsed time: 5.9e-07 s
+Number of swaps: 24
+Array is Sorted Correctly
+
+Array with 10 elements is in Random order and will be sorted by Selection Sort
+finished at Tue Sep 11 00:03:54 2018
+elapsed time: 6.27e-07 s
+Number of swaps: 7
+Array is Sorted Correctly
+
+Array with 10 elements is in Random order and will be sorted by Bubble Sort
+finished at Tue Sep 11 00:03:54 2018
+elapsed time: 9.17e-07 s
+Number of swaps: 23
+Array is Sorted Correctly
+
+Array with 10 elements is in Random order and will be sorted by Insertion Sort
+finished at Tue Sep 11 00:03:54 2018
+elapsed time: 5.92e-07 s
+Number of swaps: 21
+Array is Sorted Correctly
+
+Array with 10 elements is in Random order and will be sorted by Selection Sort
+finished at Tue Sep 11 00:03:54 2018
+elapsed time: 6.56e-07 s
+Number of swaps: 7
+Array is Sorted Correctly
+
+Array with 100 elements is in Random order and will be sorted by Bubble Sort
+finished at Tue Sep 11 00:03:54 2018
+elapsed time: 5.3782e-05 s
+Number of swaps: 2654
+Array is Sorted Correctly
+
+Array with 100 elements is in Random order and will be sorted by Insertion Sort
+finished at Tue Sep 11 00:03:54 2018
+elapsed time: 2.7761e-05 s
+Number of swaps: 2458
+Array is Sorted Correctly
+
+Array with 100 elements is in Random order and will be sorted by Selection Sort
+finished at Tue Sep 11 00:03:54 2018
+elapsed time: 1.9617e-05 s
+Number of swaps: 95
+Array is Sorted Correctly
+
+Array with 100 elements is in Random order and will be sorted by Bubble Sort
+finished at Tue Sep 11 00:03:54 2018
+elapsed time: 4.9163e-05 s
+Number of swaps: 2522
+Array is Sorted Correctly
+
+Array with 100 elements is in Random order and will be sorted by Insertion Sort
+finished at Tue Sep 11 00:03:54 2018
+elapsed time: 2.5586e-05 s
+Number of swaps: 2373
+Array is Sorted Correctly
+
+Array with 100 elements is in Random order and will be sorted by Selection Sort
+finished at Tue Sep 11 00:03:54 2018
+elapsed time: 1.8445e-05 s
+Number of swaps: 97
+Array is Sorted Correctly
+
+Array with 100 elements is in Random order and will be sorted by Bubble Sort
+finished at Tue Sep 11 00:03:54 2018
+elapsed time: 4.6285e-05 s
+Number of swaps: 2421
+Array is Sorted Correctly
+
+Array with 100 elements is in Random order and will be sorted by Insertion Sort
+finished at Tue Sep 11 00:03:54 2018
+elapsed time: 2.4944e-05 s
+Number of swaps: 2267
+Array is Sorted Correctly
+
+Array with 100 elements is in Random order and will be sorted by Selection Sort
+finished at Tue Sep 11 00:03:54 2018
+elapsed time: 1.8584e-05 s
+Number of swaps: 96
+Array is Sorted Correctly
+
+Array with 100 elements is in Random order and will be sorted by Bubble Sort
+finished at Tue Sep 11 00:03:54 2018
+elapsed time: 7.0805e-05 s
+Number of swaps: 2822
+Array is Sorted Correctly
+
+Array with 100 elements is in Random order and will be sorted by Insertion Sort
+finished at Tue Sep 11 00:03:54 2018
+elapsed time: 2.6843e-05 s
+Number of swaps: 2484
+Array is Sorted Correctly
+
+Array with 100 elements is in Random order and will be sorted by Selection Sort
+finished at Tue Sep 11 00:03:54 2018
+elapsed time: 1.9187e-05 s
+Number of swaps: 95
+Array is Sorted Correctly
+
+Array with 100 elements is in Random order and will be sorted by Bubble Sort
+finished at Tue Sep 11 00:03:54 2018
+elapsed time: 5.1605e-05 s
+Number of swaps: 2744
+Array is Sorted Correctly
+
+Array with 100 elements is in Random order and will be sorted by Insertion Sort
+finished at Tue Sep 11 00:03:54 2018
+elapsed time: 2.6488e-05 s
+Number of swaps: 2366
+Array is Sorted Correctly
+
+Array with 100 elements is in Random order and will be sorted by Selection Sort
+finished at Tue Sep 11 00:03:54 2018
+elapsed time: 1.9469e-05 s
+Number of swaps: 96
+Array is Sorted Correctly
+
+Array with 100 elements is in Random order and will be sorted by Bubble Sort
+finished at Tue Sep 11 00:03:54 2018
+elapsed time: 5.0366e-05 s
+Number of swaps: 2343
+Array is Sorted Correctly
+
+Array with 100 elements is in Random order and will be sorted by Insertion Sort
+finished at Tue Sep 11 00:03:54 2018
+elapsed time: 2.6006e-05 s
+Number of swaps: 2317
+Array is Sorted Correctly
+
+Array with 100 elements is in Random order and will be sorted by Selection Sort
+finished at Tue Sep 11 00:03:54 2018
+elapsed time: 0.000217633 s
+Number of swaps: 92
+Array is Sorted Correctly
+
+Array with 100 elements is in Random order and will be sorted by Bubble Sort
+finished at Tue Sep 11 00:03:54 2018
+elapsed time: 6.2139e-05 s
+Number of swaps: 2305
+Array is Sorted Correctly
+
+Array with 100 elements is in Random order and will be sorted by Insertion Sort
+finished at Tue Sep 11 00:03:54 2018
+elapsed time: 2.7801e-05 s
+Number of swaps: 2457
+Array is Sorted Correctly
+
+Array with 100 elements is in Random order and will be sorted by Selection Sort
+finished at Tue Sep 11 00:03:54 2018
+elapsed time: 2.0143e-05 s
+Number of swaps: 95
+Array is Sorted Correctly
+
+Array with 100 elements is in Random order and will be sorted by Bubble Sort
+finished at Tue Sep 11 00:03:54 2018
+elapsed time: 5.223e-05 s
+Number of swaps: 2491
+Array is Sorted Correctly
+
+Array with 100 elements is in Random order and will be sorted by Insertion Sort
+finished at Tue Sep 11 00:03:54 2018
+elapsed time: 2.8534e-05 s
+Number of swaps: 2613
+Array is Sorted Correctly
+
+Array with 100 elements is in Random order and will be sorted by Selection Sort
+finished at Tue Sep 11 00:03:54 2018
+elapsed time: 2.0009e-05 s
+Number of swaps: 96
+Array is Sorted Correctly
+
+Array with 100 elements is in Random order and will be sorted by Bubble Sort
+finished at Tue Sep 11 00:03:54 2018
+elapsed time: 4.8786e-05 s
+Number of swaps: 2281
+Array is Sorted Correctly
+
+Array with 100 elements is in Random order and will be sorted by Insertion Sort
+finished at Tue Sep 11 00:03:54 2018
+elapsed time: 2.741e-05 s
+Number of swaps: 2387
+Array is Sorted Correctly
+
+Array with 100 elements is in Random order and will be sorted by Selection Sort
+finished at Tue Sep 11 00:03:54 2018
+elapsed time: 1.931e-05 s
+Number of swaps: 96
+Array is Sorted Correctly
+
+Array with 100 elements is in Random order and will be sorted by Bubble Sort
+finished at Tue Sep 11 00:03:54 2018
+elapsed time: 5.5067e-05 s
+Number of swaps: 2405
+Array is Sorted Correctly
+
+Array with 100 elements is in Random order and will be sorted by Insertion Sort
+finished at Tue Sep 11 00:03:54 2018
+elapsed time: 2.7713e-05 s
+Number of swaps: 2486
+Array is Sorted Correctly
+
+Array with 100 elements is in Random order and will be sorted by Selection Sort
+finished at Tue Sep 11 00:03:54 2018
+elapsed time: 2.0228e-05 s
+Number of swaps: 94
+Array is Sorted Correctly
+
+Array with 1000 elements is in Random order and will be sorted by Bubble Sort
+finished at Tue Sep 11 00:03:54 2018
+elapsed time: 0.0245923 s
+Number of swaps: 250861
+Array is Sorted Correctly
+
+Array with 1000 elements is in Random order and will be sorted by Insertion Sort
+finished at Tue Sep 11 00:03:54 2018
+elapsed time: 0.00672289 s
+Number of swaps: 248268
+Array is Sorted Correctly
+
+Array with 1000 elements is in Random order and will be sorted by Selection Sort
+finished at Tue Sep 11 00:03:54 2018
+elapsed time: 0.00179897 s
+Number of swaps: 995
+Array is Sorted Correctly
+
+Array with 1000 elements is in Random order and will be sorted by Bubble Sort
+finished at Tue Sep 11 00:03:54 2018
+elapsed time: 0.0112184 s
+Number of swaps: 237338
+Array is Sorted Correctly
+
+Array with 1000 elements is in Random order and will be sorted by Insertion Sort
+finished at Tue Sep 11 00:03:54 2018
+elapsed time: 0.00281724 s
+Number of swaps: 244331
+Array is Sorted Correctly
+
+Array with 1000 elements is in Random order and will be sorted by Selection Sort
+finished at Tue Sep 11 00:03:54 2018
+elapsed time: 0.00184334 s
+Number of swaps: 993
+Array is Sorted Correctly
+
+Array with 1000 elements is in Random order and will be sorted by Bubble Sort
+finished at Tue Sep 11 00:03:55 2018
+elapsed time: 0.0191234 s
+Number of swaps: 250806
+Array is Sorted Correctly
+
+Array with 1000 elements is in Random order and will be sorted by Insertion Sort
+finished at Tue Sep 11 00:03:55 2018
+elapsed time: 0.00919056 s
+Number of swaps: 250675
+Array is Sorted Correctly
+
+Array with 1000 elements is in Random order and will be sorted by Selection Sort
+finished at Tue Sep 11 00:03:55 2018
+elapsed time: 0.0017017 s
+Number of swaps: 992
+Array is Sorted Correctly
+
+Array with 1000 elements is in Random order and will be sorted by Bubble Sort
+finished at Tue Sep 11 00:03:55 2018
+elapsed time: 0.0139079 s
+Number of swaps: 247910
+Array is Sorted Correctly
+
+Array with 1000 elements is in Random order and will be sorted by Insertion Sort
+finished at Tue Sep 11 00:03:55 2018
+elapsed time: 0.00833928 s
+Number of swaps: 251456
+Array is Sorted Correctly
+
+Array with 1000 elements is in Random order and will be sorted by Selection Sort
+finished at Tue Sep 11 00:03:55 2018
+elapsed time: 0.00175579 s
+Number of swaps: 995
+Array is Sorted Correctly
+
+Array with 1000 elements is in Random order and will be sorted by Bubble Sort
+finished at Tue Sep 11 00:03:55 2018
+elapsed time: 0.209137 s
+Number of swaps: 250518
+Array is Sorted Correctly
+
+Array with 1000 elements is in Random order and will be sorted by Insertion Sort
+finished at Tue Sep 11 00:03:55 2018
+elapsed time: 0.0134489 s
+Number of swaps: 245681
+Array is Sorted Correctly
+
+Array with 1000 elements is in Random order and will be sorted by Selection Sort
+finished at Tue Sep 11 00:03:55 2018
+elapsed time: 0.00207812 s
+Number of swaps: 995
+Array is Sorted Correctly
+
+Array with 1000 elements is in Random order and will be sorted by Bubble Sort
+finished at Tue Sep 11 00:03:55 2018
+elapsed time: 0.0102282 s
+Number of swaps: 252888
+Array is Sorted Correctly
+
+Array with 1000 elements is in Random order and will be sorted by Insertion Sort
+finished at Tue Sep 11 00:03:55 2018
+elapsed time: 0.00294681 s
+Number of swaps: 243682
+Array is Sorted Correctly
+
+Array with 1000 elements is in Random order and will be sorted by Selection Sort
+finished at Tue Sep 11 00:03:55 2018
+elapsed time: 0.00198445 s
+Number of swaps: 991
+Array is Sorted Correctly
+
+Array with 1000 elements is in Random order and will be sorted by Bubble Sort
+finished at Tue Sep 11 00:03:55 2018
+elapsed time: 0.0250438 s
+Number of swaps: 257191
+Array is Sorted Correctly
+
+Array with 1000 elements is in Random order and will be sorted by Insertion Sort
+finished at Tue Sep 11 00:03:55 2018
+elapsed time: 0.00407457 s
+Number of swaps: 251334
+Array is Sorted Correctly
+
+Array with 1000 elements is in Random order and will be sorted by Selection Sort
+finished at Tue Sep 11 00:03:55 2018
+elapsed time: 0.0023803 s
+Number of swaps: 992
+Array is Sorted Correctly
+
+Array with 1000 elements is in Random order and will be sorted by Bubble Sort
+finished at Tue Sep 11 00:03:55 2018
+elapsed time: 0.0173057 s
+Number of swaps: 255833
+Array is Sorted Correctly
+
+Array with 1000 elements is in Random order and will be sorted by Insertion Sort
+finished at Tue Sep 11 00:03:55 2018
+elapsed time: 0.0154716 s
+Number of swaps: 256116
+Array is Sorted Correctly
+
+Array with 1000 elements is in Random order and will be sorted by Selection Sort
+finished at Tue Sep 11 00:03:55 2018
+elapsed time: 0.0020929 s
+Number of swaps: 993
+Array is Sorted Correctly
+
+Array with 1000 elements is in Random order and will be sorted by Bubble Sort
+finished at Tue Sep 11 00:03:55 2018
+elapsed time: 0.00959988 s
+Number of swaps: 252412
+Array is Sorted Correctly
+
+Array with 1000 elements is in Random order and will be sorted by Insertion Sort
+finished at Tue Sep 11 00:03:55 2018
+elapsed time: 0.00327867 s
+Number of swaps: 253626
+Array is Sorted Correctly
+
+Array with 1000 elements is in Random order and will be sorted by Selection Sort
+finished at Tue Sep 11 00:03:55 2018
+elapsed time: 0.00190621 s
+Number of swaps: 995
+Array is Sorted Correctly
+
+Array with 1000 elements is in Random order and will be sorted by Bubble Sort
+finished at Tue Sep 11 00:03:55 2018
+elapsed time: 0.0263494 s
+Number of swaps: 256387
+Array is Sorted Correctly
+
+Array with 1000 elements is in Random order and will be sorted by Insertion Sort
+finished at Tue Sep 11 00:03:55 2018
+elapsed time: 0.00690191 s
+Number of swaps: 246610
+Array is Sorted Correctly
+
+Array with 1000 elements is in Random order and will be sorted by Selection Sort
+finished at Tue Sep 11 00:03:55 2018
+elapsed time: 0.00831522 s
+Number of swaps: 994
+Array is Sorted Correctly
+
+Array with 10000 elements is in Random order and will be sorted by Bubble Sort
+finished at Tue Sep 11 00:03:57 2018
+elapsed time: 1.89978 s
+Number of swaps: 24816349
+Array is Sorted Correctly
+
+Array with 10000 elements is in Random order and will be sorted by Insertion Sort
+finished at Tue Sep 11 00:03:58 2018
+elapsed time: 0.848049 s
+Number of swaps: 24803323
+Array is Sorted Correctly
+
+Array with 10000 elements is in Random order and will be sorted by Selection Sort
+finished at Tue Sep 11 00:03:58 2018
+elapsed time: 0.456459 s
+Number of swaps: 9993
+Array is Sorted Correctly
+
+Array with 10000 elements is in Random order and will be sorted by Bubble Sort
+finished at Tue Sep 11 00:04:00 2018
+elapsed time: 1.58766 s
+Number of swaps: 24789071
+Array is Sorted Correctly
+
+Array with 10000 elements is in Random order and will be sorted by Insertion Sort
+finished at Tue Sep 11 00:04:01 2018
+elapsed time: 0.735651 s
+Number of swaps: 24988264
+Array is Sorted Correctly
+
+Array with 10000 elements is in Random order and will be sorted by Selection Sort
+finished at Tue Sep 11 00:04:01 2018
+elapsed time: 0.561178 s
+Number of swaps: 9990
+Array is Sorted Correctly
+
+Array with 10000 elements is in Random order and will be sorted by Bubble Sort
+finished at Tue Sep 11 00:04:03 2018
+elapsed time: 1.59392 s
+Number of swaps: 24737146
+Array is Sorted Correctly
+
+Array with 10000 elements is in Random order and will be sorted by Insertion Sort
+finished at Tue Sep 11 00:04:04 2018
+elapsed time: 0.891212 s
+Number of swaps: 25028984
+Array is Sorted Correctly
+
+Array with 10000 elements is in Random order and will be sorted by Selection Sort
+finished at Tue Sep 11 00:04:04 2018
+elapsed time: 0.626828 s
+Number of swaps: 9988
+Array is Sorted Correctly
+
+Array with 10000 elements is in Random order and will be sorted by Bubble Sort
+finished at Tue Sep 11 00:04:07 2018
+elapsed time: 2.51602 s
+Number of swaps: 24854074
+Array is Sorted Correctly
+
+Array with 10000 elements is in Random order and will be sorted by Insertion Sort
+finished at Tue Sep 11 00:04:08 2018
+elapsed time: 1.08552 s
+Number of swaps: 24893486
+Array is Sorted Correctly
+
+Array with 10000 elements is in Random order and will be sorted by Selection Sort
+finished at Tue Sep 11 00:04:08 2018
+elapsed time: 0.581928 s
+Number of swaps: 9994
+Array is Sorted Correctly
+
+Array with 10000 elements is in Random order and will be sorted by Bubble Sort
+finished at Tue Sep 11 00:04:10 2018
+elapsed time: 1.72657 s
+Number of swaps: 25116385
+Array is Sorted Correctly
+
+Array with 10000 elements is in Random order and will be sorted by Insertion Sort
+finished at Tue Sep 11 00:04:11 2018
+elapsed time: 1.02508 s
+Number of swaps: 24805993
+Array is Sorted Correctly
+
+Array with 10000 elements is in Random order and will be sorted by Selection Sort
+finished at Tue Sep 11 00:04:12 2018
+elapsed time: 0.417947 s
+Number of swaps: 9990
+Array is Sorted Correctly
+
+Array with 10000 elements is in Random order and will be sorted by Bubble Sort
+finished at Tue Sep 11 00:04:14 2018
+elapsed time: 1.89464 s
+Number of swaps: 24940227
+Array is Sorted Correctly
+
+Array with 10000 elements is in Random order and will be sorted by Insertion Sort
+finished at Tue Sep 11 00:04:14 2018
+elapsed time: 0.953978 s
+Number of swaps: 24849619
+Array is Sorted Correctly
+
+Array with 10000 elements is in Random order and will be sorted by Selection Sort
+finished at Tue Sep 11 00:04:15 2018
+elapsed time: 0.853731 s
+Number of swaps: 9991
+Array is Sorted Correctly
+
+Array with 10000 elements is in Random order and will be sorted by Bubble Sort
+finished at Tue Sep 11 00:04:17 2018
+elapsed time: 2.09749 s
+Number of swaps: 24860829
+Array is Sorted Correctly
+
+Array with 10000 elements is in Random order and will be sorted by Insertion Sort
+finished at Tue Sep 11 00:04:18 2018
+elapsed time: 0.730118 s
+Number of swaps: 25038833
+Array is Sorted Correctly
+
+Array with 10000 elements is in Random order and will be sorted by Selection Sort
+finished at Tue Sep 11 00:04:19 2018
+elapsed time: 0.398897 s
+Number of swaps: 9993
+Array is Sorted Correctly
+
+Array with 10000 elements is in Random order and will be sorted by Bubble Sort
+finished at Tue Sep 11 00:04:20 2018
+elapsed time: 1.53836 s
+Number of swaps: 24933482
+Array is Sorted Correctly
+
+Array with 10000 elements is in Random order and will be sorted by Insertion Sort
+finished at Tue Sep 11 00:04:21 2018
+elapsed time: 0.703209 s
+Number of swaps: 25073134
+Array is Sorted Correctly
+
+Array with 10000 elements is in Random order and will be sorted by Selection Sort
+finished at Tue Sep 11 00:04:21 2018
+elapsed time: 0.421668 s
+Number of swaps: 9994
+Array is Sorted Correctly
+
+Array with 10000 elements is in Random order and will be sorted by Bubble Sort
+finished at Tue Sep 11 00:04:23 2018
+elapsed time: 1.44846 s
+Number of swaps: 25103150
+Array is Sorted Correctly
+
+Array with 10000 elements is in Random order and will be sorted by Insertion Sort
+finished at Tue Sep 11 00:04:23 2018
+elapsed time: 0.74337 s
+Number of swaps: 24859296
+Array is Sorted Correctly
+
+Array with 10000 elements is in Random order and will be sorted by Selection Sort
+finished at Tue Sep 11 00:04:24 2018
+elapsed time: 0.386923 s
+Number of swaps: 9991
+Array is Sorted Correctly
+
+Array with 10000 elements is in Random order and will be sorted by Bubble Sort
+finished at Tue Sep 11 00:04:25 2018
+elapsed time: 1.49987 s
+Number of swaps: 24827403
+Array is Sorted Correctly
+
+Array with 10000 elements is in Random order and will be sorted by Insertion Sort
+finished at Tue Sep 11 00:04:26 2018
+elapsed time: 0.706623 s
+Number of swaps: 24824813
+Array is Sorted Correctly
+
+Array with 10000 elements is in Random order and will be sorted by Selection Sort
+finished at Tue Sep 11 00:04:27 2018
+elapsed time: 0.437393 s
+Number of swaps: 9993
+Array is Sorted Correctly
+
+Array with 100000 elements is in Random order and will be sorted by Bubble Sort
+finished at Tue Sep 11 00:07:08 2018
+elapsed time: 161.101 s
+Number of swaps: 18446744071924681841
+Array is Sorted Correctly
+
+Array with 100000 elements is in Random order and will be sorted by Insertion Sort
+finished at Tue Sep 11 00:08:11 2018
+elapsed time: 63.4652 s
+Number of swaps: 18446744071919110762
+Array is Sorted Correctly
+
+Array with 100000 elements is in Random order and will be sorted by Selection Sort
+finished at Tue Sep 11 00:08:45 2018
+elapsed time: 34.0931 s
+Number of swaps: 99985
+Array is Sorted Correctly
+
+Array with 100000 elements is in Random order and will be sorted by Bubble Sort
+finished at Tue Sep 11 00:11:16 2018
+elapsed time: 151.074 s
+Number of swaps: 18446744071916694201
+Array is Sorted Correctly
+
+Array with 100000 elements is in Random order and will be sorted by Insertion Sort
+finished at Tue Sep 11 00:12:19 2018
+elapsed time: 62.8626 s
+Number of swaps: 18446744071919271791
+Array is Sorted Correctly
+
+Array with 100000 elements is in Random order and will be sorted by Selection Sort
+finished at Tue Sep 11 00:12:53 2018
+elapsed time: 33.4742 s
+Number of swaps: 99984
+Array is Sorted Correctly
+
+Array with 100000 elements is in Random order and will be sorted by Bubble Sort
+finished at Tue Sep 11 00:15:25 2018
+elapsed time: 152.355 s
+Number of swaps: 18446744071912476943
+Array is Sorted Correctly
+
+Array with 100000 elements is in Random order and will be sorted by Insertion Sort
+finished at Tue Sep 11 00:16:28 2018
+elapsed time: 63.3023 s
+Number of swaps: 18446744071916316954
+Array is Sorted Correctly
+
+Array with 100000 elements is in Random order and will be sorted by Selection Sort
+finished at Tue Sep 11 00:17:02 2018
+elapsed time: 34.0326 s
+Number of swaps: 99990
+Array is Sorted Correctly
+
+Array with 100000 elements is in Random order and will be sorted by Bubble Sort
+finished at Tue Sep 11 00:19:35 2018
+elapsed time: 152.884 s
+Number of swaps: 18446744071916254639
+Array is Sorted Correctly
+
+Array with 100000 elements is in Random order and will be sorted by Insertion Sort
+finished at Tue Sep 11 00:20:38 2018
+elapsed time: 63.003 s
+Number of swaps: 18446744071926414618
+Array is Sorted Correctly
+
+Array with 100000 elements is in Random order and will be sorted by Selection Sort
+finished at Tue Sep 11 00:21:12 2018
+elapsed time: 33.3245 s
+Number of swaps: 99987
+Array is Sorted Correctly
+
+Array with 100000 elements is in Random order and will be sorted by Bubble Sort
+finished at Tue Sep 11 00:23:42 2018
+elapsed time: 149.879 s
+Number of swaps: 18446744071904650977
+Array is Sorted Correctly
+
+Array with 100000 elements is in Random order and will be sorted by Insertion Sort
+  finished at Tue Sep 11 00:24:53 2018
+elapsed time: 71.0624 s
+Number of swaps: 18446744071918562527
+Array is Sorted Correctly
+
+Array with 100000 elements is in Random order and will be sorted by Selection Sort
+finished at Tue Sep 11 00:25:31 2018
+elapsed time: 38.7503 s
+Number of swaps: 99991
+Array is Sorted Correctly
+
+Array with 100000 elements is in Random order and will be sorted by Bubble Sort
+finished at Tue Sep 11 00:28:27 2018
+elapsed time: 175.536 s
+Number of swaps: 18446744071914361662
+Array is Sorted Correctly
+
+Array with 100000 elements is in Random order and will be sorted by Insertion Sort
+finished at Tue Sep 11 00:29:31 2018
+elapsed time: 64.2793 s
+Number of swaps: 18446744071911321649
+Array is Sorted Correctly
+
+Array with 100000 elements is in Random order and will be sorted by Selection Sort
+finished at Tue Sep 11 00:30:05 2018
+elapsed time: 33.4783 s
+Number of swaps: 99992
+Array is Sorted Correctly
+
+Array with 100000 elements is in Random order and will be sorted by Bubble Sort
+finished at Tue Sep 11 00:33:07 2018
+elapsed time: 182.62 s
+Number of swaps: 18446744071915048277
+Array is Sorted Correctly
+
+Array with 100000 elements is in Random order and will be sorted by Insertion Sort
+finished at Tue Sep 11 00:34:12 2018
+elapsed time: 64.7862 s
+Number of swaps: 18446744071909503003
+Array is Sorted Correctly
+
+Array with 100000 elements is in Random order and will be sorted by Selection Sort
+finished at Tue Sep 11 00:34:45 2018
+elapsed time: 33.2635 s
+Number of swaps: 99990
+Array is Sorted Correctly
+
+Array with 100000 elements is in Random order and will be sorted by Bubble Sort
+finished at Tue Sep 11 00:37:23 2018
+elapsed time: 157.305 s
+Number of swaps: 18446744071912745222
+Array is Sorted Correctly
+
+Array with 100000 elements is in Random order and will be sorted by Insertion Sort
+finished at Tue Sep 11 00:38:32 2018
+elapsed time: 69.1046 s
+Number of swaps: 18446744071917905701
+Array is Sorted Correctly
+
+Array with 100000 elements is in Random order and will be sorted by Selection Sort
+finished at Tue Sep 11 00:39:11 2018
+elapsed time: 39.5389 s
+Number of swaps: 99988
+Array is Sorted Correctly
+
+Array with 100000 elements is in Random order and will be sorted by Bubble Sort
+finished at Tue Sep 11 00:42:00 2018
+elapsed time: 168.254 s
+Number of swaps: 18446744071911718067
+Array is Sorted Correctly
+
+Array with 100000 elements is in Random order and will be sorted by Insertion Sort
+finished at Tue Sep 11 00:43:07 2018
+elapsed time: 67.7599 s
+Number of swaps: 18446744071924124920
+Array is Sorted Correctly
+
+Array with 100000 elements is in Random order and will be sorted by Selection Sort
+finished at Tue Sep 11 00:43:46 2018
+elapsed time: 38.1319 s
+Number of swaps: 99994
+Array is Sorted Correctly
+
+Array with 100000 elements is in Random order and will be sorted by Bubble Sort
+finished at Tue Sep 11 00:46:47 2018
+elapsed time: 181.107 s
+Number of swaps: 18446744071910336891
+Array is Sorted Correctly
+
+Array with 100000 elements is in Random order and will be sorted by Insertion Sort
+finished at Tue Sep 11 00:48:18 2018
+elapsed time: 91.2928 s
+Number of swaps: 18446744071915788260
+Array is Sorted Correctly
+
+Array with 100000 elements is in Random order and will be sorted by Selection Sort
+finished at Tue Sep 11 00:49:17 2018
+elapsed time: 59.3168 s
+Number of swaps: 99987
+Array is Sorted Correctly
+

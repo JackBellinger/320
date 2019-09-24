@@ -1,0 +1,337 @@
+Array with 10 elements is in Descending order and will be sorted by Bubble Sort
+finished at Sat Sep 22 15:51:54 2018
+elapsed time: 0.00084949 s
+Number of swaps: 45
+Array is Sorted Correctly
+
+Array with 10 elements is in Descending order and will be sorted by Insertion Sort
+finished at Sat Sep 22 15:51:54 2018
+elapsed time: 0.000383615 s
+Number of swaps: 45
+Array is Sorted Correctly
+
+Array with 10 elements is in Descending order and will be sorted by Selection Sort
+finished at Sat Sep 22 15:51:54 2018
+elapsed time: 0.000805061 s
+Number of swaps: 5
+Array is Sorted Correctly
+
+Array with 10 elements is in Random order and will be sorted by Bubble Sort
+finished at Sat Sep 22 15:51:54 2018
+elapsed time: 2.8527e-05 s
+Number of swaps: 24
+Array is Sorted Correctly
+
+Array with 10 elements is in Random order and will be sorted by Insertion Sort
+finished at Sat Sep 22 15:51:54 2018
+elapsed time: 1.942e-05 s
+Number of swaps: 20
+Array is Sorted Correctly
+
+Array with 10 elements is in Random order and will be sorted by Selection Sort
+finished at Sat Sep 22 15:51:54 2018
+elapsed time: 3.7061e-05 s
+Number of swaps: 9
+Array is Sorted Correctly
+
+Array with 100 elements is in Ascending Order and will be sorted by Bubble Sort
+finished at Sat Sep 22 15:51:54 2018
+elapsed time: 2.0449e-05 s
+Number of swaps: 0
+Array is Sorted Correctly
+
+Array with 100 elements is in Ascending Order and will be sorted by Insertion Sort
+finished at Sat Sep 22 15:51:54 2018
+elapsed time: 0.000939279 s
+Number of swaps: 0
+Array is Sorted Correctly
+
+Array with 100 elements is in Ascending Order and will be sorted by Selection Sort
+finished at Sat Sep 22 15:51:54 2018
+elapsed time: 0.000875664 s
+Number of swaps: 0
+Array is Sorted Correctly
+
+Array with 100 elements is in Descending order and will be sorted by Bubble Sort
+finished at Sat Sep 22 15:51:54 2018
+elapsed time: 0.00457892 s
+Number of swaps: 4950
+Array is Sorted Correctly
+
+Array with 100 elements is in Descending order and will be sorted by Insertion Sort
+finished at Sat Sep 22 15:51:54 2018
+elapsed time: 0.00343648 s
+Number of swaps: 4950
+Array is Sorted Correctly
+
+Array with 100 elements is in Descending order and will be sorted by Selection Sort
+finished at Sat Sep 22 15:51:54 2018
+elapsed time: 0.000918368 s
+Number of swaps: 50
+Array is Sorted Correctly
+
+Array with 100 elements is in Random order and will be sorted by Bubble Sort
+finished at Sat Sep 22 15:51:54 2018
+elapsed time: 0.00251384 s
+Number of swaps: 2337
+Array is Sorted Correctly
+
+Array with 100 elements is in Random order and will be sorted by Insertion Sort
+finished at Sat Sep 22 15:51:54 2018
+elapsed time: 0.00190348 s
+Number of swaps: 2443
+Array is Sorted Correctly
+
+Array with 100 elements is in Random order and will be sorted by Selection Sort
+finished at Sat Sep 22 15:51:54 2018
+elapsed time: 0.00119277 s
+Number of swaps: 92
+Array is Sorted Correctly
+
+Array with 1000 elements is in Ascending Order and will be sorted by Bubble Sort
+finished at Sat Sep 22 15:51:54 2018
+elapsed time: 0.000361564 s
+Number of swaps: 0
+Array is Sorted Correctly
+
+Array with 1000 elements is in Ascending Order and will be sorted by Insertion Sort
+finished at Sat Sep 22 15:51:55 2018
+elapsed time: 0.186429 s
+Number of swaps: 0
+Array is Sorted Correctly
+
+Array with 1000 elements is in Ascending Order and will be sorted by Selection Sort
+finished at Sat Sep 22 15:51:55 2018
+elapsed time: 0.156851 s
+Number of swaps: 0
+Array is Sorted Correctly
+
+Array with 1000 elements is in Descending order and will be sorted by Bubble Sort
+finished at Sat Sep 22 15:51:55 2018
+elapsed time: 0.559528 s
+Number of swaps: 499500
+Array is Sorted Correctly
+
+Array with 1000 elements is in Descending order and will be sorted by Insertion Sort
+finished at Sat Sep 22 15:51:56 2018
+elapsed time: 0.425884 s
+Number of swaps: 499500
+Array is Sorted Correctly
+
+Array with 1000 elements is in Descending order and will be sorted by Selection Sort
+finished at Sat Sep 22 15:51:56 2018
+elapsed time: 0.160755 s
+Number of swaps: 500
+Array is Sorted Correctly
+
+Array with 1000 elements is in Random order and will be sorted by Bubble Sort
+finished at Sat Sep 22 15:51:57 2018
+elapsed time: 0.642061 s
+Number of swaps: 248179
+Array is Sorted Correctly
+
+Array with 1000 elements is in Random order and will be sorted by Insertion Sort
+finished at Sat Sep 22 15:51:57 2018
+elapsed time: 0.363595 s
+Number of swaps: 246633
+Array is Sorted Correctly
+
+Array with 1000 elements is in Random order and will be sorted by Selection Sort
+finished at Sat Sep 22 15:51:57 2018
+elapsed time: 0.174669 s
+Number of swaps: 989
+Array is Sorted Correctly
+
+Array with 10000 elements is in Ascending Order and will be sorted by Bubble Sort
+finished at Sat Sep 22 15:51:57 2018
+elapsed time: 0.00407896 s
+Number of swaps: 0
+Array is Sorted Correctly
+
+Array with 10000 elements is in Ascending Order and will be sorted by Insertion Sort
+finished at Sat Sep 22 15:52:08 2018
+elapsed time: 10.484 s
+Number of swaps: 0
+Array is Sorted Correctly
+
+Array with 10000 elements is in Ascending Order and will be sorted by Selection Sort
+finished at Sat Sep 22 15:52:19 2018
+elapsed time: 11.7007 s
+Number of swaps: 0
+Array is Sorted Correctly
+
+Array with 10000 elements is in Descending order and will be sorted by Bubble Sort
+finished at Sat Sep 22 15:53:15 2018
+elapsed time: 55.5202 s
+Number of swaps: 49995000
+Array is Sorted Correctly
+
+Array with 10000 elements is in Descending order and will be sorted by Insertion Sort
+finished at Sat Sep 22 15:53:48 2018
+elapsed time: 33.4059 s
+Number of swaps: 49995000
+Array is Sorted Correctly
+
+Array with 10000 elements is in Descending order and will be sorted by Selection Sort
+finished at Sat Sep 22 15:53:59 2018
+elapsed time: 11.062 s
+Number of swaps: 5000
+Array is Sorted Correctly
+
+Array with 10000 elements is in Random order and will be sorted by Bubble Sort
+finished at Sat Sep 22 15:54:48 2018
+elapsed time: 48.4877 s
+Number of swaps: 24969247
+Array is Sorted Correctly
+
+Array with 10000 elements is in Random order and will be sorted by Insertion Sort
+finished at Sat Sep 22 15:55:17 2018
+elapsed time: 29.5531 s
+Number of swaps: 25018012
+Array is Sorted Correctly
+
+Array with 10000 elements is in Random order and will be sorted by Selection Sort
+finished at Sat Sep 22 15:55:30 2018
+elapsed time: 12.3076 s
+Number of swaps: 9984
+Array is Sorted Correctly
+
+Array with 100000 elements is in Ascending Order and will be sorted by Bubble Sort
+finished at Sat Sep 22 15:55:30 2018
+elapsed time: 0.054885 s
+Number of swaps: 0
+Array is Sorted Correctly
+
+Array with 100000 elements is in Ascending Order and will be sorted by Insertion Sort
+finished at Sat Sep 22 16:13:55 2018
+elapsed time: 1104.61 s
+Number of swaps: 0
+Array is Sorted Correctly
+
+Array with 100000 elements is in Ascending Order and will be sorted by Selection Sort
+finished at Sat Sep 22 16:31:04 2018
+elapsed time: 1029.76 s
+Number of swaps: 0
+Array is Sorted Correctly
+
+Array with 100000 elements is in Descending order and will be sorted by Bubble Sort
+finished at Sat Sep 22 17:56:03 2018
+elapsed time: 5098.36 s
+Number of swaps: 704982704
+Array is Sorted Correctly
+
+Array with 100000 elements is in Descending order and will be sorted by Insertion Sort
+finished at Sat Sep 22 18:54:11 2018
+elapsed time: 3488.43 s
+Number of swaps: 704982704
+Array is Sorted Correctly
+
+Array with 100000 elements is in Descending order and will be sorted by Selection Sort
+finished at Sat Sep 22 19:16:07 2018
+elapsed time: 1315.23 s
+Number of swaps: 50000
+Array is Sorted Correctly
+
+Array with 100000 elements is in Random order and will be sorted by Bubble Sort
+finished at Sat Sep 22 20:22:36 2018
+elapsed time: 3988.53 s
+Number of swaps: 18446744071913750006
+Array is Sorted Correctly
+
+Array with 100000 elements is in Random order and will be sorted by Insertion Sort
+finished at Sat Sep 22 20:57:19 2018
+elapsed time: 2083.32 s
+Number of swaps: 18446744071911519460
+Array is Sorted Correctly
+
+Array with 100000 elements is in Random order and will be sorted by Selection Sort
+finished at Sat Sep 22 21:12:19 2018
+elapsed time: 899.813 s
+Number of swaps: 99985
+==7374== Warning: client switching stacks?  SP change: 0x1ffefffc90 --> 0x1ffec2f380
+==7374==          to suppress, use: --max-stackframe=4000016 or greater
+==7374== Invalid write of size 8
+==7374==    at 0x10986A: lab1() (Main.cpp:118)
+==7374==    by 0x10A16C: main (Main.cpp:169)
+==7374==  Address 0x1ffec2f378 is on thread 1's stack
+==7374==  in frame #0, created by lab1() (Main.cpp:95)
+==7374== 
+==7374== Invalid write of size 4
+==7374==    at 0x108F57: generateForwardSorted(int*, double) (Main.cpp:14)
+==7374==    by 0x10986B: lab1() (Main.cpp:118)
+==7374==    by 0x10A16C: main (Main.cpp:169)
+==7374==  Address 0x1ffec2f380 is on thread 1's stack
+==7374==  in frame #1, created by lab1() (Main.cpp:95)
+==7374== 
+==7374== Invalid read of size 8
+==7374==    at 0x108F60: generateForwardSorted(int*, double) (Main.cpp:16)
+==7374==    by 0x10986B: lab1() (Main.cpp:118)
+==7374==    by 0x10A16C: main (Main.cpp:169)
+==7374==  Address 0x1ffec2f378 is on thread 1's stack
+==7374==  in frame #0, created by generateForwardSorted(int*, double) (Main.cpp:10)
+==7374== 
+Array is Sorted Correctly
+
+Array with 1000000 elements is in Ascending Order and will be sorted by Bubble Sort
+==7374== Invalid read of size 4
+==7374==    at 0x10A7AD: Sort::bubble(int*, double) (Sort.cpp:67)
+==7374==    by 0x1091C1: timeBasicSorts(unsigned long (*)(int*, double), int*, double) (Main.cpp:56)
+==7374==    by 0x109963: lab1() (Main.cpp:126)
+==7374==    by 0x10A16C: main (Main.cpp:169)
+==7374==  Address 0x1ffec2f380 is on thread 1's stack
+==7374==  in frame #2, created by lab1() (Main.cpp:95)
+==7374== 
+==7374== Invalid read of size 4
+==7374==    at 0x10A7C7: Sort::bubble(int*, double) (Sort.cpp:67)
+==7374==    by 0x1091C1: timeBasicSorts(unsigned long (*)(int*, double), int*, double) (Main.cpp:56)
+==7374==    by 0x109963: lab1() (Main.cpp:126)
+==7374==    by 0x10A16C: main (Main.cpp:169)
+==7374==  Address 0x1ffec2f384 is on thread 1's stack
+==7374==  in frame #2, created by lab1() (Main.cpp:95)
+==7374== 
+finished at Sat Sep 22 21:12:22 2018
+elapsed time: 1.7756 s
+Number of swaps: 0
+==7374== Invalid read of size 4
+==7374==    at 0x1090DC: validateAscendingSort(int*, double) (Main.cpp:44)
+==7374==    by 0x1092B3: timeBasicSorts(unsigned long (*)(int*, double), int*, double) (Main.cpp:66)
+==7374==    by 0x109963: lab1() (Main.cpp:126)
+==7374==    by 0x10A16C: main (Main.cpp:169)
+==7374==  Address 0x1ffec2f380 is on thread 1's stack
+==7374==  in frame #2, created by lab1() (Main.cpp:95)
+==7374== 
+==7374== Invalid read of size 4
+==7374==    at 0x1090F2: validateAscendingSort(int*, double) (Main.cpp:44)
+==7374==    by 0x1092B3: timeBasicSorts(unsigned long (*)(int*, double), int*, double) (Main.cpp:66)
+==7374==    by 0x109963: lab1() (Main.cpp:126)
+==7374==    by 0x10A16C: main (Main.cpp:169)
+==7374==  Address 0x1ffec2f384 is on thread 1's stack
+==7374==  in frame #2, created by lab1() (Main.cpp:95)
+==7374== 
+Array is Sorted Correctly
+
+Array with 1000000 elements is in Ascending Order and will be sorted by Insertion Sort
+==7374== Invalid read of size 4
+==7374==    at 0x10A5F4: Sort::insertion(int*, double) (Sort.cpp:23)
+==7374==    by 0x1091C1: timeBasicSorts(unsigned long (*)(int*, double), int*, double) (Main.cpp:56)
+==7374==    by 0x109963: lab1() (Main.cpp:126)
+==7374==    by 0x10A16C: main (Main.cpp:169)
+==7374==  Address 0x1ffec2f384 is on thread 1's stack
+==7374==  in frame #2, created by lab1() (Main.cpp:95)
+==7374== 
+==7374== Invalid read of size 4
+==7374==    at 0x10A60A: Sort::insertion(int*, double) (Sort.cpp:23)
+==7374==    by 0x1091C1: timeBasicSorts(unsigned long (*)(int*, double), int*, double) (Main.cpp:56)
+==7374==    by 0x109963: lab1() (Main.cpp:126)
+==7374==    by 0x10A16C: main (Main.cpp:169)
+==7374==  Address 0x1ffec2f380 is on thread 1's stack
+==7374==  in frame #2, created by lab1() (Main.cpp:95)
+==7374== 
+==7374== 
+==7374== More than 10000000 total errors detected.  I'm not reporting any more.
+==7374== Final error counts will be inaccurate.  Go fix your program!
+==7374== Rerun with --error-limit=no to disable this cutoff.  Note
+==7374== that errors may occur in your program without prior warning from
+==7374== Valgrind, because errors are no longer being displayed.
+==7374== 
+
